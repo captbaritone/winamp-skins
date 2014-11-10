@@ -1,0 +1,8 @@
+[Text]
+Normal=#596695
+Current=#444F71
+NormalBG=#7C8ECE
+SelectedBG=#677ABA
+Font=
+MBbg=#7C8ECE
+MBfg=#444F71
